@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
