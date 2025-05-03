@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 ## Dynamic Programming
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
