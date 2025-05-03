@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 ## Two Pointers
 |  |
 | ------- |
