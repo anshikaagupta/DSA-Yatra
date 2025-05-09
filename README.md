@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1013-fibonacci-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1013-fibonacci-number) |
+| [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
 ## Recursion
 |  |
 | ------- |
@@ -90,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
