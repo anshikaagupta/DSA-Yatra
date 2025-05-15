@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2215-finding-3-digit-even-numbers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
