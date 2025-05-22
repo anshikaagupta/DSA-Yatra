@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2215-finding-3-digit-even-numbers) |
 | [3321-type-of-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 ## Enumeration
 |  |
 | ------- |
@@ -139,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
