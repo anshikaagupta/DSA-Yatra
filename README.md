@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
