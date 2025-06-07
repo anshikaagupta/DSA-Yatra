@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3637-count-number-of-balanced-permutations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Counting
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
@@ -210,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
