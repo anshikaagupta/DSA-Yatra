@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
