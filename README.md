@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1293-three-consecutive-odds) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [3639-zero-array-transformation-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
