@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
