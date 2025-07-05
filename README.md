@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -326,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
