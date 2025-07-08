@@ -4,30 +4,21 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def merge(self, l1, l2):
-        dummy=ListNode(0)
-        start=dummy
-        while l1 and l2:
-            if l1.val<l2.val:
-                start.next=l1
-                l1=l1.next
-            else:
-                start.next=l2
-                l2=l2.next
-            start=start.next
-        if l1:
-            start.next=l1
-        if l2:
-            start.next=l2
-        return dummy.next
-
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        if len(lists)==0:
-            return None
-        if len(lists)==1:
-            return lists[0]
-        mid=len(lists)//2
-        left=self.mergeKLists(lists[:mid])
-        right=self.mergeKLists(lists[mid:])
-        return self.merge(left,right)
+        heap=[]
+        count=0
+        for node in lists:
+            if node:
+                heappush(heap,(node.val, count, node))
+                count+=1
+        dummy=ListNode(0)
+        tail=dummy
+        while heap:
+            val, _, node=heappop(heap)
+            tail.next=node
+            tail=tail.next
+            if node.next:
+                heappush(heap, (node.next.val, count, node.next))
+                count+=1
+        return dummy.next
         
