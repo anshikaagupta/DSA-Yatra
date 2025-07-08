@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
