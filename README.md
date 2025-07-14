@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0023-merge-k-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Merge Sort
 |  |
 | ------- |
