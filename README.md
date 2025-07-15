@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0386-lexicographical-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0099-recover-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
 ## Linked List
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
