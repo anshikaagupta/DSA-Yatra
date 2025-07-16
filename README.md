@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0538-convert-bst-to-greater-tree) |
 | [0975-range-sum-of-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0975-range-sum-of-bst) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0538-convert-bst-to-greater-tree) |
 | [0975-range-sum-of-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0975-range-sum-of-bst) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0538-convert-bst-to-greater-tree) |
 | [0975-range-sum-of-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0975-range-sum-of-bst) |
 ## Linked List
 |  |
@@ -422,5 +425,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0538-convert-bst-to-greater-tree) |
 | [0975-range-sum-of-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
