@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0806-domino-and-tromino-tiling](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
