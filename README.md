@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3226-minimum-number-game) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -321,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3226-minimum-number-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3226-minimum-number-game) |
