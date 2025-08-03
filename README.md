@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
