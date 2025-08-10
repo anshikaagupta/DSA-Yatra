@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0966-binary-subarrays-with-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2202-sum-of-k-mirror-numbers) |
