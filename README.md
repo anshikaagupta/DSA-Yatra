@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
+| [0679-24-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
+| [0679-24-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
