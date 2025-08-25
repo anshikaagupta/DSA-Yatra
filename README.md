@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1628-count-submatrices-with-all-ones) |
