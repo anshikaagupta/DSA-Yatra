@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0113-path-sum-ii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1402-count-square-submatrices-with-all-ones) |
