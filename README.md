@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2079-delete-duplicate-folders-in-system) |
