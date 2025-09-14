@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1127-last-stone-weight) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1006-vowel-spellchecker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1510-find-lucky-integer-in-an-array) |
