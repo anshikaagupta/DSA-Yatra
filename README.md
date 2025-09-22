@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2689-rearranging-fruits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3630-total-characters-in-string-after-transformations-ii) |
