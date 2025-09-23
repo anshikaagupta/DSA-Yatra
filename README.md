@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
+| [0165-compare-version-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1006-vowel-spellchecker) |
