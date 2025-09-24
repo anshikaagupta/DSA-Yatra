@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0868-push-dominoes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1006-vowel-spellchecker) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0342-power-of-four) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0166-fraction-to-recurring-decimal) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0594-longest-harmonious-subsequence) |
