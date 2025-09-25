@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0120-triangle) |
 | [0806-domino-and-tromino-tiling](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0867-new-21-game) |
