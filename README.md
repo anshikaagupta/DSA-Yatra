@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2479-meeting-rooms-iii) |
 | [3226-minimum-number-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3226-minimum-number-game) |
+| [3336-water-bottles-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
