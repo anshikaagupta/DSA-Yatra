@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
 | [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
