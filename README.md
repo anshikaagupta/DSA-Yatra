@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0036-valid-sudoku) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0455-assign-cookies) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0135-candy) |
