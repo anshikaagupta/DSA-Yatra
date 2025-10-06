@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0940-fruit-into-baskets) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0506-relative-ranks) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1917-maximum-average-pass-ratio) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1628-count-submatrices-with-all-ones) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0538-convert-bst-to-greater-tree) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [0975-range-sum-of-bst](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0975-range-sum-of-bst) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -573,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -580,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Stack
 |  |
@@ -621,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/anshikaagupta/DSA-Yatra/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
