@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3639-zero-array-transformation-i) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3827-implement-router) |
