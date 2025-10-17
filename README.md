@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3617-find-the-original-typed-string-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -764,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/anshikaagupta/DSA-Yatra/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anshikaagupta/DSA-Yatra/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
